@@ -1,0 +1,9 @@
+Aaron,657 Burnett Road,10,4,6,554-222-1198
+Angelina,3390 Elm St,45,6,1,555-6902
+Frank Reynolds,2222 Baseball Dr,66,7,0,123 0987
+Steve Holt,2456 address road,17,3,0,555-5555
+Daniel,2673 Address Rd,78,2,1,8675309
+Dave,2453 Snowflake Rd,25,5,1,555 6678
+Abraham Lincoln,1600 PA Avenue,56,8,0,telegraph wires
+Steven,2525 Mockingbird Lane,22,0,2,222 5634
+Arnold,2222 forest rd,11,1,0,5123434
